@@ -17,7 +17,13 @@ Place all written answers from `recitation-05.md` here for easier grading.
 
 - **1b.**
 
-
+Quicksort: 
+- O(nlogn) complexity for the average case 
+- O(n^2) for worst case
+Selection sort:
+- O(n^2) for average case 
+- O(n^2) for worst case
 
 
 - **1c.**
+Timesort is faster than the other sorting algorithms provided in this lab. This is true for all of the list sizes that were tested.
